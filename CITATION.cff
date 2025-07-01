@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Word cloud using Python code
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Farah Bader
+identifiers:
+  - type: url
+    value: 'https://github.com/fbader2/wordcloud'
+    description: GitHub repository
+repository-code: >-
+  https://github.com/fbader2/wordcloud/blob/main/World%20Cloud%20for%20Farah_original.py
+url: 'https://github.com/fbader2/wordcloud'
+license: CC0-1.0
